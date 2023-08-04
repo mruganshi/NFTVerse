@@ -4,7 +4,7 @@ Created a Decentralized Crypto Token ”CSP” from scratch on ICP Blockchain Ne
 
 # Features
 
-1. User can claim their free CSP token from the CSP Faucet (TokenVerse: https://github.com/ShubhamG2311/TokenVerse).
+1. User can claim their free CSP token from the CSP Faucet.
 2. User links this CSP Wallet to the NFTVerse marketplace and all the transactions are completed from the same wallet.
 3. On the Discover page user can find NFTs minted by other users listed on listing HashMap with their price and owner id.
 4. User can buy NFTs from Discover page and the ownership is transferred to the user and the amount is deducted from the user's CSP wallet and deposited to the seller.
